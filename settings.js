@@ -47,13 +47,13 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['𝔸𝕪𝕦𝕤𝕙 - 𝔹𝕠𝕥']
+global.owner = ['Ayush - Bot']
 global.ownertag = '+918602306506' //your tag number
-global.botname = '𝔸𝕪𝕦𝕤𝕙 - 𝔹𝕠𝕥' //ur bot name
+global.botname = 'Ayush - Bot' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "𝔸𝕪𝕦𝕤𝕙 - 𝔹𝕠𝕥" // sticker author
+global.author = "Ayush - Bot" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ 𝔸𝕪𝕦𝕤𝕙 - 𝔹𝕠𝕥 ]' //
+global.footer = '[ ◉Ayush - Bot]' //
 
 //database
 global.premium = ['+918602306506'] //ur premium numbers
