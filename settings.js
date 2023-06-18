@@ -33,7 +33,7 @@ global.vcardowner = ['+919640440407'] // owner number
 global.ownername = "Kawin Raju❯❯" // owner name
 global.ytname = "kawinraju" // yt chanel name
 global.socialm = "insta:kawinraju" // github or insta name
-global.location = "India, Tamilnadu,oddanchtram" // location
+global.location = "India, Tamilnadu,oddanchatram" // location
 
 //bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
@@ -61,7 +61,7 @@ global.premium = ['+919640440407'] //ur premium numbers
 //other
 global.sessionName = 'session'
 global.antitags = false
-global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
+global.prefa = ['','!','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sp = '💠'
 global.mess = {
     success: 'Done ✅',
